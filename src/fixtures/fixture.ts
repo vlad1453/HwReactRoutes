@@ -55,5 +55,5 @@ export const articles: Articles[] = [
 
 export function getArticleById(id: number) {
   const Article = articles.find((p) => p.id === id);
-  return Article || { id: null, title: "", text: "Product not found" };
+  return Article || { id: null, title: "", text: "Article not found" };
 }
