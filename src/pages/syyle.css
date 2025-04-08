@@ -1,7 +1,7 @@
 .header {
   display: flex;
   justify-content: center;
-  background-color: rgb(251, 255, 0);
+  background-color: rgb(114, 118, 109);
   border-radius: 5px;
 }
 .header > p {
