@@ -1,0 +1,18 @@
+.header {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(251, 255, 0);
+  border-radius: 5px;
+}
+.header > p {
+  margin: 10px;
+  padding: 5px;
+  background-color: rgb(56, 48, 113);
+  border-radius: 3px;
+}
+.header > p:hover {
+  background-color: rgb(16, 18, 16);
+}
+.header > p > a {
+  color: rgb(9, 207, 241);
+}

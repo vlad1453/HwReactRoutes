@@ -1,0 +1,14 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.read-the-docs {
+  color: #888;
+}
+.HomeStyles {
+  border-style: dashed;
+  padding: 30px;
+  border-color: aqua;
+  border-radius: 10px;
+}
